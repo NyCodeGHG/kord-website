@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkord_website=self.webpackChunkkord_website||[]).push([[477],{10:function(e){e.exports={blogPosts:[]}}}]);
